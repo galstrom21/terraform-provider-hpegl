@@ -30,7 +30,7 @@ This is the main repo for the GreenLake terraform provider which provides terraf
          required_providers {
             hpegl = {
                source  = "HPE/hpegl"
-               version = ">= 0.1.0-beta5"
+               version = ">= 0.3.17"
             }
          }
       }
